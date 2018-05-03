@@ -50,8 +50,9 @@ static const uint8_t A3 = 3;
 #define digitalPinToPCMSK(p)    ( ((p) <= 4) ? (&PCMSK) : ((uint8_t *)0) )
 #define digitalPinToPCMSKbit(p) ( (p) )
 
-
 #define setFreq(x) CCP=0xD8;CLKPSR=x;
+
+#define LED_BUILTIN 2
 
 #ifdef ARDUINO_MAIN
 
