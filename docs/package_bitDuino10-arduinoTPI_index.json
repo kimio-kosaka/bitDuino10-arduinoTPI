@@ -51,8 +51,8 @@
                  "host": "i686-mingw32",
                  "archiveFileName": "avrboy-1.0.1-win.zip",
                  "url": "https://github.com/kimio-kosaka/avrboy/releases/download/v1.0.1/avrboy-1.0.1-win.zip",
-                 "checksum": "SHA-256: ",
-                 "size": " "
+                 "checksum": "SHA-256:f7c9cf78f8473d60ac4d9d5cfde124a487294fb1de8e972a7e71fc1c88cd75fd",
+                 "size": "859622"
                },
                 {
                  "host": "i686-linux-gnu",
