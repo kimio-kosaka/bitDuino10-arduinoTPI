@@ -65,8 +65,8 @@
                  "host": "arm-linux-gnueabihf",
                  "archiveFileName": "avrboy-1.0.1-linuxARM.tar.gz",
                  "url": "https://github.com/kimio-kosaka/avrboy/releases/download/v1.0.1/avrboy-1.0.1-linuxARM.tar.gz",
-                 "checksum": "SHA-256: ",
-                 "size": " "
+                 "checksum": "SHA-256:1d8cd349b0e810b705cd2610e408df340e4d72ef9f3b018798117329ffbe04ee",
+                 "size": "717724"
                }
               ]
             }
