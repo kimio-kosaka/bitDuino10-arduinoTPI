@@ -28,7 +28,7 @@
              ],
              "toolsDependencies": [
                {
-                 "packager": "bitDuino10-arduinoTPI",
+                 "packager": "bitDuino10-aTPI",
                  "name": "avrboy",
                  "version": "1.0.1"
                }
