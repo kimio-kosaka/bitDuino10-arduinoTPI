@@ -1,0 +1,61 @@
+##############################################################
+menu.clock=Clock
+
+bitDuino10ar-8.name=ATtiny10 (bitDuino10-arduinoTPI)
+
+bitDuino10ar-8.upload.using=arduinoTPI
+bitDuino10ar-8.upload.protocol=arduinoTPI
+bitDuino10ar-8.upload.tool=avrboy
+bitDuino10ar-8.upload.maximum_size=1024
+bitDuino10ar-8.upload.maximum_data_size=32
+
+bitDuino10ar-8.bootloader.tool=avrboy
+bitDuino10ar-8.bootloader.fuses=
+bitDuino10ar-8.bootloader.protocol=arduinoTPI
+bitDuino10ar-8.bootloader.unlock_bits=
+bitDuino10ar-8.bootloader.lock_bits=
+bitDuino10ar-8.bootloader.file=dummy.hex
+
+bitDuino10ar-8.build.mcu=attiny10
+bitDuino10ar-8.build.f_cpu=8000000L
+bitDuino10ar-8.build.board=AVR_bitDuino10ar-8
+bitDuino10ar-8.build.core=arduino
+bitDuino10ar-8.build.variant=bitDuino10
+
+
+
+#        internal 8MHz
+##----------------------------------------------------------------
+bitDuino10ar-8.menu.clock.internal-8=8MHz(Internal)
+bitDuino10ar-8.menu.clock.internal-8.build.f_cpu=8000000L
+
+#        internal 4MHz
+##----------------------------------------------------------------
+bitDuino10ar-8.menu.clock.internal-4=4MHz(Internal)
+bitDuino10ar-8.menu.clock.internal-4.build.f_cpu=4000000L
+
+##        internal 2MHz
+##----------------------------------------------------------------
+bitDuino10ar-8.menu.clock.internal-2=2MHz(Internal)
+bitDuino10ar-8.menu.clock.internal-2.build.f_cpu=2000000L
+
+##        internal 1MHz
+##----------------------------------------------------------------
+bitDuino10ar-8.menu.clock.internal-1=1MHz(Internal)
+bitDuino10ar-8.menu.clock.internal-1.build.f_cpu=1000000L
+
+##        internal 500KHz
+##----------------------------------------------------------------
+bitDuino10ar-8.menu.clock.internal-05=500KHz(Internal)
+bitDuino10ar-8.menu.clock.internal-05.build.f_cpu=500000L
+
+##        internal 250KHz
+##----------------------------------------------------------------
+bitDuino10ar-8.menu.clock.internal-02=250KHz(Internal)
+bitDuino10ar-8.menu.clock.internal-02.build.f_cpu=250000L
+
+##        internal 125KHz
+##----------------------------------------------------------------
+bitDuino10ar-8.menu.clock.internal-01=125KHz(Internal)
+bitDuino10ar-8.menu.clock.internal-01.build.f_cpu=125000L
+
