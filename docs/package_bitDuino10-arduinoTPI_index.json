@@ -1,7 +1,7 @@
 {
    "packages":[
       {
-         "name":"bitDuino10a",
+         "name":"bitDuino10-aTPI",
          "maintainer":"maris_HY /modified by Kosaka.Lab",
          "websiteURL":"",
          "email":"kimio.kosaka@gmail.com",
@@ -10,7 +10,7 @@
          },
          "platforms":[
            {
-             "name": "bitDuino10a",
+             "name": "bitDuino10-aTPI",
              "architecture": "avr",
              "version": "1.0.0",
              "category": "Contributed",
