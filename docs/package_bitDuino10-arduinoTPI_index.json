@@ -10,7 +10,7 @@
          },
          "platforms":[
            {
-             "name": "bitDuino10-arduinoTPI",
+             "name": "bitDuino10a",
              "architecture": "avr",
              "version": "1.0.0",
              "category": "Contributed",
