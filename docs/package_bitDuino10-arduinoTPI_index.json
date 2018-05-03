@@ -1,8 +1,8 @@
 {
    "packages":[
       {
-         "name":"bitDuino10-arduinoTPI",
-         "maintainer":"Kosaka.Lab",
+         "name":"bitDuino10a",
+         "maintainer":"maris_HY /modified by Kosaka.Lab",
          "websiteURL":"",
          "email":"kimio.kosaka@gmail.com",
          "help":{
@@ -23,7 +23,7 @@
              },
              "boards": [
                {
-                 "name": "ATtiny10"
+                 "name": "ATtiny10(arduinoTPI)"
                }
              ],
              "toolsDependencies": [
