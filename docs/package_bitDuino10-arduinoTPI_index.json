@@ -16,8 +16,8 @@
              "category": "Contributed",
              "url": "https://github.com/kimio-kosaka/bitDuino10-arduinoTPI/archive/1.0.0.zip",
              "archiveFileName": "bitDuino10-arduinoTPI-1.0.0.zip",
-             "checksum": "SHA-256: ",
-             "size": " ",
+             "checksum": "SHA-256:8a9b0d2e06541a0bf109591b040d0bf870d797cb39cc808025a81b1cc6c1ff7a",
+             "size": "48930",
              "help": {
                "online": ""
              },
@@ -44,8 +44,8 @@
                  "host": "x86_64-apple-darwin",
                  "archiveFileName": "avrboy-1.0.1-osx.tar.gz",
                  "url": "https://github.com/kimio-kosaka/avrboy/releases/download/v1.0.1/avrboy-1.0.1-osx.tar.gz",
-                 "checksum": "SHA-256: ",
-                 "size": " "
+                 "checksum": "SHA-256:069ef2feba70cf0b60a262f784644f79c929218c7b2dca1ccba5f091ef0ba5ae",
+                 "size": "839973"
                },
                 {
                  "host": "i686-mingw32",
