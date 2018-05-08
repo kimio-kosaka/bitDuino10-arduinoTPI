@@ -2,10 +2,10 @@
   "packages": [{
     "name": "bitDuino10-aTPI",
     "maintainer": "maris_HY /modified by Kosaka.Lab",
-    "websiteURL": "https://make.kosakalab.com/make/electronic-work/arduio_tpi_en/",
+    "websiteURL": "https://github.com/kimio-kosaka/bitDuino10-arduinoTPI",
     "email": "kimio.kosaka@gmail.com",
     "help": {
-      "online": ""
+      "online": "https://make.kosakalab.com/make/electronic-work/arduio_tpi_en/"
     },
     "platforms": [{
       "name": "bitDuino10-aTPI",
