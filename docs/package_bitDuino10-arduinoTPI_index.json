@@ -17,7 +17,7 @@
       "checksum": "SHA-256:e626a76ff21b253709523f2ebed8516316130526a49107a9b2de98e5e462c9f0",
       "size": "49052",
       "help": {
-        "online": ""
+        "online": "https://make.kosakalab.com/make/electronic-work/arduio_tpi_en/"
       },
       "boards": [{
         "name": "ATtiny10(arduinoTPI)"
