@@ -5,7 +5,7 @@
     "websiteURL": "",
     "email": "kimio.kosaka@gmail.com",
     "help": {
-      "online": ""
+      "online": "https://make.kosakalab.com/make/electronic-work/arduio_tpi_en/"
     },
     "platforms": [{
       "name": "bitDuino10-aTPI",
